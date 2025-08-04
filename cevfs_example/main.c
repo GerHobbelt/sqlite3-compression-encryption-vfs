@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-#include <zlib.h>
+#include <zlib-ng.h>
 #include <CommonCrypto/CommonDigest.h>
 #include <CommonCrypto/CommonCryptor.h>
 

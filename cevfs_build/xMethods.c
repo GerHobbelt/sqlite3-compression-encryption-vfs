@@ -7,7 +7,7 @@
 //
 
 #include <stdlib.h>
-#include <zlib.h>
+#include <zlib-ng.h>
 #include <CommonCrypto/CommonDigest.h>
 #include <CommonCrypto/CommonCryptor.h>
 
